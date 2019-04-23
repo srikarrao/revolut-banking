@@ -3,11 +3,12 @@
 Revolut Coding Exercise
 
 
-#### Steps To Execute ####
 
 **Prerequisites**
 
 * Java JDK 11
+
+#### Steps To Execute ####
 
 * Run `./gradlew clean build` or `gradlew.bat clean build`
 * Go to `build/distributions` and unpack `revolut-banking-0.0.1-SNAPSHOT.zip`
