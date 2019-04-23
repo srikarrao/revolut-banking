@@ -23,6 +23,10 @@ public class Controller {
 			response.type("application/json");
 		});
 
+		get("/ping", (request, response) -> {
+			return "pong";
+		});
+		
 		post("/v1/accounts", (request, response) -> {
 			return new Gson().toJsonTree(moneyTransferService.createAccount(request, response));
 		});
