@@ -11,10 +11,16 @@ Revolut Coding Exercise
 #### Steps To Execute ####
 
 * Run `./gradlew clean build` or `gradlew.bat clean build`
+* If above step fails, please use the `revolut-banking-0.0.1-SNAPSHOT.zip` from `distributions` folder. 
 * Go to `build/distributions` and unpack `revolut-banking-0.0.1-SNAPSHOT.zip`
 * Go to `revolut-banking-0.0.1-SNAPSHOT/bin` and run there `./revolut-banking` or `revolut-banking.bat`. 
 * Open `http://localhost:8080/ping` in your browser to get the `pong` message
 * Use below endpoints to execute/test the API using Postman/SoapUI tool
+
+#### Build Failover Recovery ####
+
+* Please foll
+
 
 #### REST API#### 
 
