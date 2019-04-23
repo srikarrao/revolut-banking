@@ -5,7 +5,7 @@ Revolut Coding Exercise
 
 #### Steps To Execute ####
 
-** Prerequisites **
+**Prerequisites**
 
 * Java JDK 11
 
