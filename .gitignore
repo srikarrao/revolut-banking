@@ -7,6 +7,15 @@
 
 bin/
 build/
+#build/resources
+#build/reports
+#build/classes
+#build/jacoco
+#build/libs
+#build/reports
+#build/resources
+#build/scripts
+#build/test-results
 .gradle/
 
 # Log file
@@ -19,11 +28,11 @@ build/
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.nar
 *.ear
-*.zip
+#*.zip
 *.tar.gz
 *.rar
 
