@@ -3,6 +3,11 @@
 Revolut Coding Exercise
 
 
+
+**Prerequisites**
+
+* Java JDK 11
+
 #### Steps To Execute ####
 
 * Run `./gradlew clean build` or `gradlew.bat clean build`
