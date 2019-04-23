@@ -91,7 +91,7 @@ Method: POST
 }
 ```
 
-#### Technologies Used####
+#### Technologies Used ####
 * **Spark Java Rest Framework:**
 For exposing REST API endpoints. Has a bug in framework for trailing '/' in the endpoint url. Tried intercepting the request and changing the resourcePath. Didn't worked. For this application standard is no trailing '/' in the resource URI. Used default Jetty http server. 
 * **Wix-Embedded-MySql:** Used this to store the account details. The schema is pre-built during application bootstrap using DB_INIT_SCRIPT.sql.. Used `ENGINE=MEMORY` which provides in-memory SQL database.
