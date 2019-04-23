@@ -1,5 +1,13 @@
 # Compiled class file
 *.class
+.gitignore.swp
+.settings/
+.classpath
+.project
+
+bin/
+build/
+.gradle/
 
 # Log file
 *.log
