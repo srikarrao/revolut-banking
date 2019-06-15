@@ -22,7 +22,7 @@ Revolut Coding Exercise
 * Please foll
 
 
-#### REST API#### 
+#### REST API #### 
 
 **Get Account Endpointurl**
 
